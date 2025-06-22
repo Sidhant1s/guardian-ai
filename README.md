@@ -1,77 +1,107 @@
-# Guardian AI – Multi-Tiered AI-Powered Cybersecurity Framework
+Guardian AI – Multi-Tiered AI-Powered Cybersecurity Framework
 
-> **Confidential and Not Patented**
+Confidential and Not Patented
 
-**Author**: Sidhant Negi  
-**GitHub**: [https://github.com/Sidhant1s](https://github.com/Sidhant1s)
+Author: Sidhant Negi🔗 GitHub: https://github.com/Sidhant1s
 
----
+🚀 Overview
 
-## 🚀 Overview
+Guardian AI is a next-gen, OS-integrated cybersecurity system built for real-time protection, sensitive data surveillance, and AI-driven response to cyber threats. With tiered access levels, Guardian AI serves users from the general public to elite military-grade security applications.
 
-**Guardian AI** is a next-gen, OS-integrated cybersecurity system built for real-time protection, sensitive data surveillance, and AI-driven response to cyber threats. With tiered access levels, Guardian AI serves users from general public to elite military-grade security applications.
+🧠 Key Features
 
----
+🔒 AI-based unauthorized access detection
 
-## 🧠 Key Features
+📹 Facial/emotion monitoring and camera/mic surveillance (Premium/Elite only)
 
-- 🔒 AI-based unauthorized access detection  
-- 📹 Facial/emotion monitoring and camera/mic surveillance (Premium/Elite only)  
-- 🧬 Data encryption and transfer over secure verified paths  
-- 🛑 Real-time lockdown on data tampering attempts  
-- 🐛 Worm-assisted attacker tracking (Elite/Military)  
-- 🗃️ Decoy generation to confuse forensic tools (Military only)  
-- 🔐 Judicial access system for sensitive data recovery  
-- 🌐 Offline AI decision engine with periodic updates  
-- 📤 Encrypted slow-path upload to organization-defined secure servers  
+🧬 Data encryption and transfer over secure verified paths
 
----
+🛑 Real-time lockdown on data tampering attempts
 
-## 🧱 Tier-Based Access Model
+🐛 Worm-assisted attacker tracking (Elite/Military)
 
-| Tier         | Users                    | Key Features                                                                                     |
-| ------------ | ------------------------ | ------------------------------------------------------------------------------------------------ |
-| **Normal**   | General Public           | Basic AI protection, encrypted uploads, user-defined sensitive data                              |
-2| **Premium**  | Privacy Seekers          | Adds facial auth, emergency locking, secure cloud uploads                                        |
-| **Elite**    | Govt/Corporate Executives| IP tracing, forced lockdown, judicial unsealing, persistent monitoring, emergency auto-messaging |
-| **Military** | Defense Agencies         | Total control, AI customization, auto-wipe, forensic evasion via decoy data                      |
+🗃️ Decoy generation to confuse forensic tools (Military only)
 
----
+🔐 Authorized access system governed by the highest management purchasing the device, for sensitive data recovery
 
-## 📂 Tech Stack
+🌐 Offline AI decision engine with periodic updates
 
-- **Language**: Python  
-- **AI**: Offline-trained ML models (anomaly detection, facial analysis)  
-- **Surveillance**: OS-integrated camera, mic, biometric APIs  
-- **Networking**: Secure socket, path validation, endpoint verification  
-- **Storage**: Secure local + cloud/hybrid (with binary data compression in Elite)
+📤 Encrypted slow-path upload to organization-defined secure servers
 
----
+🧱 Tier-Based Access Model
 
-## 🧪 How It Works
+Tier
 
-- AI hooks into system calls, user activity, camera feed, and microphone.
-- Sensitive file movement is monitored; unauthorized action triggers lockdown.
-- Locked data is encrypted and uploaded only to approved servers.
-- Biometric + camera-based dual authentication secures critical operations.
-- In breach scenarios (Elite/Military), attacker IP is traced; decoys/worms are deployed.
+Users
 
----
+Key Features
 
-## 📜 Legal Note
+Normal
 
-This concept and its content are **Confidential and Not Patented**. Sharing, reuse, or reproduction is prohibited without express permission.
+General Public
 
----
+Basic AI protection, encrypted uploads, user-defined sensitive data
 
-## 🤝 Let's Collaborate
+Premium
+
+Privacy Seekers
+
+Facial/emotion detection, live alerts, enhanced file-level encryption
+
+Elite
+
+Govt/Corporate Executives
+
+IP tracing, forced lockdown, authorized unsealing by top-level device purchasers, persistent monitoring
+
+Military
+
+Defense Agencies
+
+Total control, AI customization, auto-wipe, forensic evasion via decoy data
+
+📂 Tech Stack
+
+Language: Python
+
+AI: Offline-trained ML models (anomaly detection, facial analysis)
+
+Surveillance: OS-integrated camera, mic, biometric APIs
+
+Networking: Secure socket, path validation, endpoint verification
+
+Storage: Secure local + cloud/hybrid (with binary data compression in Elite)
+
+🧪 How It Works
+
+AI hooks into system calls, user activity, camera feed, and microphone.
+
+Sensitive file movement is monitored; unauthorized action triggers lockdown.
+
+Locked data is encrypted and uploaded only to approved servers.
+
+Biometric + camera-based dual authentication secures critical operations.
+
+In breach scenarios (Elite/Military), attacker IP is traced; decoys/worms are deployed.
+
+📜 Legal Note
+
+This concept and its content are Confidential and Not Patented. Sharing, reuse, or reproduction is prohibited without express permission.
+
+🤝 Let's Collaborate
 
 Guardian AI is ready for:
 
-- Co-development with **OS vendors** (e.g., Microsoft, Google, Apple)
-- Partnership with **cybersecurity MNCs** (e.g., Palo Alto, CrowdStrike, McAfee)
-- Deployment for **government and defense contractors**
+Co-development with OS vendors (e.g., Microsoft, Google, Apple)
 
-📫 Contact via GitHub: [Sidhant1s](https://github.com/Sidhant1s)
+Partnership with cybersecurity MNCs (e.g., Palo Alto, CrowdStrike, McAfee)
 
----
+Integration with government and defense contractor systems
+
+📫 Contact via GitHub: Sidhant1s
+
+🔐 Extension: Vault One Integration
+
+Vault One is a premium security vault concept that runs on top of Guardian AI OS to secure financial, military, and sensitive personal data with emotional AI, decoy generation, and self-destruction mechanisms.
+
+📘 Learn more about Vault One in the separate Vault One White Paper — designed for users who require ultra-private, emotion-verified, multi-layer protection for physical or digital access environments.
