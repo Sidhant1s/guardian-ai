@@ -1,6 +1,6 @@
 # 🛡️ GUARDIAN AI – MULTI-TIERED AI-POWERED CYBERSECURITY FRAMEWORK
 
-**Confidential and Not Patented**
+**Confidential, Conceptual, and Not Patented**
 
 **Author:** Sidhant Negi
 🔗 GitHub: [https://github.com/Sidhant1s](https://github.com/Sidhant1s)
@@ -9,7 +9,7 @@
 
 ## 🚀 Overview
 
-Guardian AI is a next-gen, OS-integrated cybersecurity system built for real-time protection, sensitive data surveillance, and AI-driven response to cyber threats. With tiered access levels, Guardian AI serves users from the general public to elite military-grade security applications.
+Guardian AI is a conceptual, next-gen, OS-integrated cybersecurity system built for real-time protection, sensitive data surveillance, and AI-driven response to cyber threats. With tiered access levels, Guardian AI serves users from the general public to elite military-grade security applications.
 
 ---
 
@@ -60,7 +60,7 @@ Guardian AI is a next-gen, OS-integrated cybersecurity system built for real-tim
 
 ## 📜 Legal Note
 
-This concept and its content are **Confidential and Not Patented**. Sharing, reuse, or reproduction is prohibited without express permission.
+This concept and its content are **Confidential, Conceptual, and Not Patented**. Sharing, reuse, or reproduction is prohibited without express permission.
 
 ---
 
